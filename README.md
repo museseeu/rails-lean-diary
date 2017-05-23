@@ -1,0 +1,1 @@
+# rails-lean-diary
